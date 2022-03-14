@@ -2,4 +2,4 @@
 > 总结项目经验
 
 ### 1.带数字的横向seekbar
-![带数字的圆形seekbar]()
+![带数字的圆形seekbar](https://github.com/RelaxYeyuan/CustomViewProject/blob/master/gif/gif1.gif)
